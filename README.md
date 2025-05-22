@@ -1,5 +1,6 @@
-Desenvolver-template
-Projeto pessoal utilizando HTML5 semântico e CSS para criar páginas organizadas, elegantes e fáceis de navegar.
+Desenvolvimento-template
+
+Projeto pessoal utilizando HTML semântico e CSS para criar páginas organizadas, elegantes e fáceis de navegar.
 
 A Web Semântica consiste no uso correto das tags HTML que representam o significado real do conteúdo da página, organizando as informações de forma lógica e estruturada. Essa prática facilita o entendimento tanto para os navegadores quanto para ferramentas como mecanismos de busca e leitores de tela, que interpretam o conteúdo de forma mais eficiente e precisa.
 
